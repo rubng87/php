@@ -3,7 +3,7 @@
 // Parámetros de la conexión
 $serverName = "127.0.0.1";
 $userName = "cief";
-$password = "123456";
+$password = "Bart2428.";
 $dbName = "colores";
 
 $link = "mysql:host=$serverName;port=3306;dbname=$dbName";
